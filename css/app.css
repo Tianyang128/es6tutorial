@@ -20,7 +20,7 @@ html { font-size: 100%; }
 body {
     color: #333;
     margin: 0;
-    padding: 0;
+    padding: 40;
 
     font-family: Verdana, Arial;
     font-size: 0.8rem;
